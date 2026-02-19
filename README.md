@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<# Hassan Bodlah
+# Hassan Bodlah
 
 Bioinformatics & Computational Biology Student @ Rochester Institute of Technology  
 R • Python • Statistical Genomics • Data Visualization  
@@ -35,8 +35,4 @@ Interactive Shiny app implementing modified Gompertz growth model.
 - RNA-seq differential expression workflows
 - Reproducible bioinformatics with Snakemake
 - Genome assembly and kBase
-!--
 
-
-- 
--->
