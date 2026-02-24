@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hassan Bodlah
 
 Bioinformatics & Computational Biology Student @ Rochester Institute of Technology  
